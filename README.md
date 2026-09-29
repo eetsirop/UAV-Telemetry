@@ -114,7 +114,7 @@ If a selected column is missing from a file, the script skips that file and prin
 If you use this dataset in academic work, please cite the associated paper or repository:
 
 ```bibtex
-@misc{proton_uav_telemetry,
+@misc{uav_telemetry,
   title        = {UAV-Telemetry: UAV-Assisted Wireless Sensor Node Telemetry Dataset},
   author       = {Eirini Eleni Tsiropoulou},
   year         = {2026},
