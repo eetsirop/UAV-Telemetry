@@ -116,7 +116,7 @@ If you use this dataset in academic work, please cite the associated paper or re
 ```bibtex
 @misc{uav_telemetry,
   title        = {UAV-Telemetry: UAV-Assisted Wireless Sensor Node Telemetry Dataset},
-  author       = {Eirini Eleni Tsiropoulou},
+  author       = {K M Rumman, Sai Harsha Nimmagadda and Eirini Eleni Tsiropoulou},
   year         = {2026},
   howpublished = {\url{https://github.com/eetsirop/UAV-Telemetry}},
   note         = {{P}erformance and Resource Optimization in Networks (PROTON) Lab}
