@@ -118,6 +118,7 @@ If you use this dataset in academic work, please cite the associated paper or re
   title        = {UAV-Telemetry: UAV-Assisted Wireless Sensor Node Telemetry Dataset},
   author       = {Eirini Eleni Tsiropoulou},
   year         = {2026},
-  howpublished = {\url{https://github.com/eetsirop/UAV-Telemetry}}
+  howpublished = {\url{https://github.com/eetsirop/UAV-Telemetry}},
+  note         = {{P}erformance and Resource Optimization in Networks (PROTON) Lab}
 }
 ```
